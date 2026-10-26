@@ -74,7 +74,7 @@ fitness-data-classification/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/anandneeti/fitness-data-classification>
 cd fitness-data-classification
 ```
 
